@@ -1,4 +1,3 @@
-# 2k
 ## 👋 Hi there, I'm Krimlon!
 I’m a Tech IT professional and enthusiast.
 
