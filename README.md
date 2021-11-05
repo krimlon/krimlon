@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm David!
+## 👋 Hi there, I'm Krimlon!
 I’m a Tech IT professional and enthusiast.
 
 I ❤️ to **inspire and educate** people in IT.
