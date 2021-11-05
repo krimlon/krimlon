@@ -1,9 +1,9 @@
-## 👋 Hi there, I'm Krimlon!
+## 👋 Hi there, I'm David!
 I’m a Tech IT professional and enthusiast.
 
 I ❤️ to **inspire and educate** people in IT.
 
-I create detailed tutorials focusing on known IT industry standards and share my best practices to help you get ahead in your career. Check out my YouTube Channel and 🚀 learn Linux, DevOps, Docker, Cybersecurity
+I love learning new 🚀 Linux, DevOps, Docker, Cybersecurity techniques and softwares. I hope to create tutorials to assist others in their careers.
 
 
 ## 🛠️ Technologies and Tools
