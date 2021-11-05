@@ -27,7 +27,8 @@ I create detailed tutorials focusing on known IT industry standards and share my
   <img alt="Ubiguiti" src="https://camo.githubusercontent.com/169760bc85d7baefa2b580e152675883449a0ea302d9cffc38a329c5947534d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d556269717569746926636f6c6f723d303535394339266c6f676f3d5562697175697469266c6f676f436f6c6f723d464646464646266c6162656c3d" /> 
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
-  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />  
+  <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" /> 
+    <img alt="Jenkins" src="https://camo.githubusercontent.com/1fa74b15e799ff19f66c4b876e3c38e8d9cdc44c7ddc2de1458fe63c99784090/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a656e6b696e7326636f6c6f723d443234393339266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d464646464646266c6162656c3d" />  
 </p>
 
 ### Productivity & Communication Tools
